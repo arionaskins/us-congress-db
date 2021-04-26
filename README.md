@@ -1,5 +1,5 @@
 # us-congress-db
-## Developers: Arion Askins, Marzena Hurtado, Ricardo Jonathan, Brian Navarro, & Kevin Zhao
+## Arion Askins, Marzena Hurtado, Ricardo Jonathan, Brian Navarro, & Kevin Zhao
 <br>
   
 
